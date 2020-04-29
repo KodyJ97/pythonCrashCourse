@@ -16,3 +16,7 @@ sudo apt-get install libfreetype6-dev
 
 # Install pygame use pip3 if for python3 or pip for python 2*.
 pip3 install --user hg+http://bitbucket.org/pygame/pygame
+# or
+sudo apt-get install python3-pygame
+
+echo "if not working install dependencies at https://www.pygame.org/wiki/CompileUbuntu?parent="
