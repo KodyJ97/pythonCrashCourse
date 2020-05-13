@@ -52,5 +52,10 @@ datetime.datetime(2015, 5, 28, 4, 39, 11, 989446, tzinfo=<UTC>)
 
 To get data through a foreign key relationship, you use the lowercase name of the related model followed by an underscore and the word set . For example, say you have the models Pizza and Topping, and Topping is related to Pizza through a foreign key. If your object is called my_pizza, representing a single pizza, you can get all of the pizza’s toppings using the code my_pizza.topping_set.all().
 
+Adding new apps.
+Create .py file in learning logs
+then create a new url for it
+then add it to the view
+last create the html template for it (extends base)
 
 
