@@ -1,1 +1,2 @@
 # pythonCrashCourse
+# Issues with dependencies
